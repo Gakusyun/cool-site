@@ -25,3 +25,15 @@ dist-ssr
 
 CLAUDE.md
 .claude
+
+.clawd-todos.json
+.claude.json
+
+# Claw Code local artifacts
+.claw/settings.local.json
+.claw/sessions/
+
+.sandbox-home
+.sandbox-tmp
+
+.npmrc
